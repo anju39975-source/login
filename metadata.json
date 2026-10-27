@@ -1,0 +1,6 @@
+{
+  "name": "AuraID - Enterprise Authentication & Access Portal",
+  "description": "Modern and secure authentication portal featuring email login, one-click demo credentials, OTP verification, account registration, password reset, and active session dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
